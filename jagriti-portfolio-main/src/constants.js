@@ -147,7 +147,7 @@ export const SkillsInfo = [
         "Personal Portfolio is a responsive website built with React to showcase my projects, skills, and contact information. It highlights my work as a web developer and provides an easy way to connect with me.",
       image: portfolioLogo,
       tags: ["React JS", "HTML", "CSS", "JavaScript","React"],
-      github: "https://github.com/krijagriti30",
+      github: "https://github.com/krijagriti30/portfolio-website",
       
     },
     
